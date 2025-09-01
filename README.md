@@ -13,4 +13,4 @@ Incluye:
 ## Uso
 
 ```bash
-django-admin startproject my_project --template=/ruta/django-template --name=.env
+django-admin startproject my_project --template=https://github.com/G3NIUS-FRM/Django-Template-Backend/archive/refs/heads/main.zip --name=.env
